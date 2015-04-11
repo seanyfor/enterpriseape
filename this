@@ -1,0 +1,48 @@
+    1  rails new enterpriseape
+    2  cd enterpriseape/
+    3  rails s
+    4  cd ..
+    5  dir
+    6  del /s enterpriseape/
+    7  del \s enterpriseape/
+    8  delete /?
+    9  del /?
+   10  rm 
+   11  man rm
+   12  rm -fr enterpriseape/
+   13  uname-a 
+   14  uname -a
+   15  rails new enterpriseape
+   16  ls
+   17  rails s
+   18  pwd
+   19  cd enterpriseape/
+   20  rails s
+   21  rails s
+   22  rake db:create
+   23  rails g scaffold invoice
+   24  rails g scaffold invoice date:datetime company:string tax:decimal salesperson:string
+   25  rake db:migrate
+   26  pwd
+   27  git init
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m ' first commit'
+   32  git config --user.email "s-for4@comcast.net"
+   33  git config --global user.email "s-for4@comcast.net"
+   34  git config --help
+   35  git config --global user.email "s-for4@comcast.net"
+   36  git config --global user.name "Sean Forte"
+   37  git config --help
+   38  git commit -m ' first commit'
+   39  
+   40  
+   41  git remote add origin https://github.com/seanyfor/enterpriseape.git
+   42  get push -u origin master
+   43  git push -u origin master
+   44  history
+   45  history | mailx -s"test" s-for4@comcast.net
+   46  ll /usr/bin/mailx
+   47  ls -l /usr/bin/mailx
+   48  history >this
